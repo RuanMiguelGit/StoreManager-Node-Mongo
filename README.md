@@ -27,11 +27,6 @@ Escrever assinaturas para APIs intuitivas e facilmente entendíveis.
   <li> Git Clone no Projeto</li>
   <li> Npm Install</li>
  <li> Preencha o arquivo .env com as variáveis
-  host: process.env.HOSTNAME
-
-user: process.env.MYSQL_USER
-
-password: process.env.MYSQL_PASSWORD
  </li>
  <li> Inicie o MongoDB</li>
   <li> Npm start</li>
